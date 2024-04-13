@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 1.0.5
+_src_path: gh:algorandfoundation/algokit-python-template
+author_email: nacbotics@outlook.com
+author_name: Nacbotics
+contract_name: contracts
+deployment_language: python
+preset_name: starter
+project_name: gora_feeds_python_contract_examples
+
