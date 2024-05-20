@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Not production files
+
+artifacts/
+
+# Ignore not yet ready feeds
+smart_contracts\feed_examples\flight_feed.py
+smart_contracts\feed_examples\weather_feeds.py
+
 # C extensions
 *.so
 
